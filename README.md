@@ -1,4 +1,4 @@
-# Odin project sign up form
+# passenger counter
 
 > One paragraph statement about the project.
 
@@ -10,18 +10,18 @@ Additional description of the project and its features.
 
 - HTML,
 - CSS,
-- Other
+- JAVASCRIPT
 
 ## Project link
 
-[Live Demo Link](https://odin-project-sign-up-form-tenifayo.netlify.app)
+[Live Demo Link](https://deploy-preview-1--passenger-counter-tenifayo.netlify.app)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/abdulsomod1/odin-sign-up-form.git
+git clone https://github.com/abdulsomod1/passenger-counter
 ```
 
 - Install Dependencies
