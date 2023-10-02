@@ -10,7 +10,7 @@ Additional description of the project and its features.
 
 - HTML,
 - CSS,
-- Other
+- Javascript
 
 ## Project link
 
