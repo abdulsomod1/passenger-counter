@@ -5,7 +5,6 @@ body {
   background-repeat: no-repeat;
   position: relative;
   background-size: cover;
-  font-family: Roboto, sans-serif;
 }
 
 .cover {
@@ -19,6 +18,7 @@ body {
   font-size: 2rem;
   font-weight: bold;
   color: black;
+  font-family: Roboto, sans-serif;
 }
 
 button {
@@ -43,10 +43,6 @@ button {
 
 #entry {
   font-size: 25px;
-}
-
-button:hover {
-  box-shadow: 2px 2px 5px;
 }
 
 h2 {

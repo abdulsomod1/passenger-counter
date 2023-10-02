@@ -13,3 +13,6 @@ function save() {
   countNumber.textContent = 0;
   count = 0;
 }
+
+document.getElementById('count').addEventListener('click', counting);
+document.getElementById('save').addEventListener('click', save);
